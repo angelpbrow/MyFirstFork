@@ -40,7 +40,7 @@ Generally, though, you should keep all your source code together in a _folder/di
     * commit changes to be pushed
         * `git commit -m 'I have added changes'`
     * push changes to your repository
-        * `git push -u origin main`
+        * `git push`
 * now, check that the code has been copied UP to the Github site.
    * navigate to your fork of the repo, the one in your account and cloned.
    * make sure the commit message is correct and up to date
